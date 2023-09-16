@@ -1,5 +1,5 @@
 # DOCS
-{:toc}
+
 
 ## Web Links
 
