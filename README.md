@@ -1,7 +1,11 @@
 # DOCS
-[[_TOC_]]
+{:toc}
 
 ## Web Links
 
 - [Heroku Site Request Map Generator](https://requestmap.herokuapp.com/)
 - .
+
+## Quotes
+
+## Learning
